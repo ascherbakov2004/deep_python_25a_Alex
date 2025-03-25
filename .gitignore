@@ -1,0 +1,6 @@
+.coverage
+.venv
+.idea
+__pycache__/
+.vscode
+venv
