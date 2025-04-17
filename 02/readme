@@ -1,0 +1,9 @@
+Отчет coverage:
+Name                 Stmts   Miss  Cover
+----------------------------------------
+mean_func.py            20      0   100%
+parse_json.py           18      3    83%
+test_mean_func.py       79      2    97%
+test_parse_json.py      61      0   100%
+----------------------------------------
+TOTAL                  178      5    97%
