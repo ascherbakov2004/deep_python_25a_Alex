@@ -1,0 +1,9 @@
+Отчет coverage:
+Name                   Stmts   Miss  Cover
+------------------------------------------
+file_filter_gen.py        15      0   100%
+predict_mood.py           16      1    94%
+test_file_filter.py       88      0   100%
+test_predict_mood.py      47      0   100%
+------------------------------------------
+TOTAL                    166      1    99%
